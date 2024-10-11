@@ -1,0 +1,3 @@
+[submodule "juegos/juegos/sm64"]
+	path = juegos/juegos/sm64
+	url = https://github.com/n64decomp/sm64.git
